@@ -238,6 +238,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Supabase](https://github.com/supabase-community/supabase-mcp)** - Connects to Supabase platform for database, auth, edge functions and more.
 - **[Supadata](https://github.com/supadata-ai/mcp)** - Official MCP server for [Supadata](https://supadata.ai) - YouTube, TikTok, X and Web data for makers.
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
+- **[Ssemble AI Clipping](https://github.com/nicejam/ssemble-mcp)** - Create AI-powered short-form video clips from YouTube videos. 9 tools for creating shorts, browsing caption templates, background music, gameplay overlays, and meme hooks. Supports both local (npx) and hosted endpoint (mcp.ssemble.com). [Website](https://www.ssemble.com)
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
 - **[TalentoHQ](https://hr.talentohq.com/mcp)** – Connect to the [TalentoHQ HR software](https://talentohq.com/features/mcp) via MCP. Transform your organization with the AI first HR software.
