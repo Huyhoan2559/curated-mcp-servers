@@ -1,12 +1,26 @@
 # Curated MCP Servers
 
-A community-curated list of Model Context Protocol (MCP) servers.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/awesome-ai-tools/curated-mcp-servers/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/awesome-ai-tools/curated-mcp-servers?style=social)](https://github.com/awesome-ai-tools/curated-mcp-servers/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/awesome-ai-tools/curated-mcp-servers)](https://github.com/awesome-ai-tools/curated-mcp-servers/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A community-curated list of **Model Context Protocol (MCP) servers** — the open standard for connecting AI assistants to external tools, data sources, and APIs. Unlike other lists, **we welcome community contributions via pull requests**.
 
 > [!TIP]
-> PRs are welcome! If you'd like to add an MCP server, please open a pull request.
+> PRs are welcome! If you'd like to add an MCP server, please read our [Contributing Guide](CONTRIBUTING.md) and open a pull request.
 
 > [!NOTE]
 > Originally based on [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) by wong2 (MIT License).
+
+## Contents
+
+- [Featured](#featured)
+- [Reference Servers](#reference-servers)
+- [Official Servers](#official-servers)
+- [Community Servers](#community-servers)
+- [Clients](#clients)
+- [Frameworks](#frameworks)
 
 ## Featured
 
