@@ -8,6 +8,23 @@ A community-curated list of Model Context Protocol (MCP) servers.
 > [!NOTE]
 > Originally based on [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) by wong2 (MIT License).
 
+## Featured
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.ssemble.com">
+        <img src="https://www.ssemble.com/favicon.ico" width="60" alt="Ssemble Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nicejam/ssemble-mcp"><b>Ssemble AI Clipping</b></a><br>
+      Create AI-powered short-form video clips from YouTube videos. 9 tools for creating shorts, browsing caption templates, background music, gameplay overlays, and meme hooks. Supports both local (npx) and hosted endpoint (mcp.ssemble.com).<br>
+      <a href="https://www.ssemble.com">Website</a> · <a href="https://github.com/nicejam/ssemble-mcp">GitHub</a>
+    </td>
+  </tr>
+</table>
+
 ## Reference Servers
 
 These servers aim to demonstrate MCP features and the TypeScript and Python SDKs.
